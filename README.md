@@ -1,0 +1,2 @@
+# QRcreationWithPython
+QRcreate&amp;readWithPython
